@@ -1,0 +1,83 @@
+body {
+    
+}
+
+.top {
+    background-color: #fff;
+}
+
+.part-of-a-word-1 {
+    color: #2196F3;
+}
+
+.member-1 {
+    color: #757575;
+}
+
+.part-of-a-word-2 {
+    color: #000;
+}
+
+.studio {
+    color: #2196F3;
+}
+
+.e-mail-1 {
+    color: #2196F3;
+}
+
+.tel-1 {
+    color: #757575;
+}
+
+.service-block {
+    background-color: #2F303A;
+}
+
+.solutions {
+    color: #fff;
+}
+
+.service {
+    background-color: #2196F3;
+}
+
+.order {
+    color: #fff;
+}
+
+.features-list {
+    background-color: #fff;
+}
+
+.tasks {
+    background-color: #fff;
+}
+
+.team {
+    background-color: #F5F4FA;
+}
+
+.bottom {
+    background-color: #2F303A;
+}
+
+.part-of-a-word-3 {
+    color: #2196F3;
+}
+
+.part-of-a-word-4 {
+    color: #fff;
+}
+
+.location {
+    color: #fff;
+}
+
+.e-mail-2 {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.tel-2 {
+    color: rgba(255, 255, 255, 0.6);
+}
